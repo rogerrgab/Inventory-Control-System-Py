@@ -64,6 +64,11 @@ pip3 install PySimpleGUI
 pip install mysql-connector-python
 ```
 
+## 4. Run this command on your terminal in the  `./InventoryControl-py` folder:
+```
+python3 app.py
+```
+
 ## Note: If any error occurs due to package dependencies, follow the steps below and then repeat the three steps mentioned above:
 1. Install `python3-venv` (if not installed):
 ```
